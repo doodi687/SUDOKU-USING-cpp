@@ -105,6 +105,6 @@ Version: 1.0.0
 Last Updated: March 22, 2025
 License: MIT
 🙏 Acknowledgments
-Dr. [Professor Name] for guidance and mentorship
+Dr. Alok Singh for guidance and mentorship
 MBM University Computer Science Department for resources and support
 All testers who provided valuable feedback during development
