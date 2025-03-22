@@ -17,7 +17,7 @@ Sudoku Master is a feature-rich C++ implementation of the classic Sudoku puzzle 
 🚀 Installation
 bash
 # Clone the repository
-git clone https://github.com/vishaldoodi/sudoku-master.git
+git clone https://github.com/doodi687/sudoku-master.git
 
 # Navigate to the project directory
 cd sudoku-master
